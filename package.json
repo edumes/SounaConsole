@@ -1,6 +1,6 @@
 {
   "name": "sounaconsole",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/SounaConsole.js",
   "types": "dist/SounaConsole.d.ts",
