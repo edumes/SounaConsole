@@ -32,7 +32,3 @@ SounaConsole.loading('Carregando...', 5);  // Mensagem de carregamento por 5 seg
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrar bugs, tiver sugestões ou quiser contribuir com código, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Adapte a descrição conforme necessário, adicionando mais detalhes específicos sobre os recursos, exemplos de uso ou qualquer informação relevante para os usuários e colaboradores.
